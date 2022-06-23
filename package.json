@@ -9,6 +9,9 @@
   },
   "author": "Disha Roy",
   "license": "ISC",
+  "engines": {
+    "node": "16.15.0"
+  },
   "dependencies": {
     "body-parser": "^1.20.0",
     "ejs": "^3.1.6",
